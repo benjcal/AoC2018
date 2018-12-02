@@ -1,0 +1,7 @@
+[package]
+name = "d_2a"
+version = "0.1.0"
+authors = ["Benjamin Calderon <benj.calderon@gmail.com>"]
+
+[dependencies]
+unic-char-range = "0.7.0"
